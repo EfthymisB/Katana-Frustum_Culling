@@ -42,7 +42,7 @@ Most options have Help Text, so be sure to check them out.
 
 ## Installation
 
-Add the `FrustumCulling.macro` and `FrustumCullingColletions.macro` files in any of Katana's startup Macros folder.
+Download the `.macro` files from my [GumRoad page](https://efthymisb.gumroad.com/l/tsrvn) or GitHub and place them in any of Katana's startup Macros folder.
 
 - `~/.katana/Macros`
 
