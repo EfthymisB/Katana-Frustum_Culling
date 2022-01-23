@@ -38,7 +38,6 @@ Example:
 
 Most options have Help Text, so be sure to check them out.
 
-
 ---
 
 ## Installation
@@ -51,6 +50,16 @@ Add the `FrustumCulling.macro` and `FrustumCullingColletions.macro` files in any
 
 _* Custom Paths should be included in KATANA_RESOURCES Environment Variable._
 
+---
+
+
+## **Special thanks to**:
+
+ > [Jonathan W. Rodegher](https://www.linkedin.com/in/adamtdavis/) for suggestions and troubleshooting.
+
+ > [Adam Davis](https://www.linkedin.com/in/adamtdavis/) for sharing his OpScript "Constraint camera focus distance to a locator" in the [Katana Discord Server](https://discord.gg/Rgn9ucN). Was very helpful for some parts of my script.
+
+ > Everyone in **Katana Discord** who helped me.
 ---
 
 [![](https://img.shields.io/badge/contact-efthymisb.vfx@gmail.com-critical?logo=gmail&logoColor=red)](mailto:efthymisb.vfx@gmail.com)
