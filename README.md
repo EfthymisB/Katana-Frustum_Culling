@@ -43,22 +43,21 @@ https://user-images.githubusercontent.com/87680516/150698838-2dd947b6-80b2-4ac3-
 >
 >> Refer to Help Text for more details. 
 >
-><img alt="katanaCatalogScript" src="https://user-images.githubusercontent.com/87680516/150820042-121cce54-8564-4485-a9b9-201dbe259ef5.png" width="550"/><br>
+>![calcMethodSettings](https://user-images.githubusercontent.com/87680516/150820042-121cce54-8564-4485-a9b9-201dbe259ef5.png)
 >
 >5. Enabled/Disable viewport color representation for objects inside/outside the Frustum. Enable `Depth Colors` to preview objects based on distance from the camera.
 >
-><img alt="katanaCatalogScript" src="https://user-images.githubusercontent.com/87680516/150820063-69dd12e0-a60b-45e6-8dc7-b713fb2f0e37.png" width="550"/><br>
->
+>![colorSettings](https://user-images.githubusercontent.com/87680516/150820063-69dd12e0-a60b-45e6-8dc7-b713fb2f0e37.png)
+> 
 >6. Enable/Disable attributes.
 >
-><img alt="katanaCatalogScript" src="https://user-images.githubusercontent.com/87680516/150820050-03a989e2-16e5-4b0e-85de-ccd44d3045a1.png" width="550"/><br>
->
+>![attrSettings](https://user-images.githubusercontent.com/87680516/150820050-03a989e2-16e5-4b0e-85de-ccd44d3045a1.png)
+> 
 >7. Add `instanceSkipIndex` attribute for points outside the Frustum (*only for Pointclouds*).
 >
 >> Then copy the `instanceSkipIndex` attribute to your `instance array` location. 
 >
-><img alt="katanaCatalogScript" src="https://user-images.githubusercontent.com/87680516/150820069-892acf40-fd6d-467f-8d07-d5df58c78797.png" width="550"/><br>
->
+>![pointcloudSettings](https://user-images.githubusercontent.com/87680516/150820069-892acf40-fd6d-467f-8d07-d5df58c78797.png)
 >> For more information, refer to the Help Text of each option.
 
 > ## 2. FrustumCullingCollections.macro
