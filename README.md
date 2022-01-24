@@ -32,11 +32,33 @@ Example:
 ![path_example](https://user-images.githubusercontent.com/87680516/150696163-3f347bc9-59bf-4409-ad38-6f06bb8a5119.png)
 
 
-*You can combine locations using expressions as usual.*
+> *You can combine locations using expressions as usual.*
 
 3. Add the Camera's location path in `user.camera.path` and change the camera settings according to your needs.
 
-Most options have Help Text, so be sure to check them out.
+![camera_settings](https://user-images.githubusercontent.com/87680516/150817242-4858f788-2166-4b5f-9080-b6eae2ffbbfc.png)
+
+4. Set the preferable calculation method and Viewport/Render visibility.
+
+> Refer to Help Text for more details. 
+
+<img alt="katanaCatalogScript" src="https://user-images.githubusercontent.com/87680516/150820042-121cce54-8564-4485-a9b9-201dbe259ef5.png" width="550"/><br>
+
+5. Enabled/Disable viewport color representation for objects inside/outside the Frustum. Enable `Depth Colors` to preview objects based on distance from the camera.
+
+<img alt="katanaCatalogScript" src="https://user-images.githubusercontent.com/87680516/150820063-69dd12e0-a60b-45e6-8dc7-b713fb2f0e37.png" width="550"/><br>
+
+6. Enable/Disable attributes.
+
+<img alt="katanaCatalogScript" src="https://user-images.githubusercontent.com/87680516/150820050-03a989e2-16e5-4b0e-85de-ccd44d3045a1.png" width="550"/><br>
+
+7. Add `instanceSkipIndex` attribute for points outside the Frustum (*only for Pointclouds*).
+
+> Then copy the `instanceSkipIndex` attribute to your `instance array` location. 
+
+<img alt="katanaCatalogScript" src="https://user-images.githubusercontent.com/87680516/150820069-892acf40-fd6d-467f-8d07-d5df58c78797.png" width="550"/><br>
+
+> For more information, refer to the Help Text of each option.
 
 ---
 
@@ -51,7 +73,6 @@ Download the `.macro` files from my [GumRoad page](https://efthymisb.gumroad.com
 _* Custom Paths should be included in KATANA_RESOURCES Environment Variable._
 
 ---
-
 
 ## **Special thanks to**:
 
